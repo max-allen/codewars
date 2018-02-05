@@ -1,0 +1,1 @@
+My solutions to programming challenges supplied via codewars (https://www.codewars.com/). 
